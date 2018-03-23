@@ -1,0 +1,496 @@
+Name,Age,Gender,Blood Group,Email,Contact No.,City,"How obvious is it, that you will donate blood in the coming six months?","For me to, donate blood is?",Most people who are important to me think that I .............. donate blood?,"Generally speaking, how much do you care what people think you should do? ","How often do you feel ill, tired, or listless?","If I felt ill, tired, or listless, it would make it more difficult for me to donate blood.","For me to save life of people, by donating blood is.",How often do you go out of station?,How often do you encounter courses that place heavy demands on your time?,"If I encountered unanticipated events that placed demands on my time, it would make it more difficult for me to donate blood?", I would avoid aiding someone in a medical emergency if I could.,I'm scared of being sick after donating blood?,My personal values encourage me to donate blood.,"If you come across information regarding need for blood, how likely are you, to recommend anyone you know with same blood group?",Which media do you prefer as a means of getting information? Tick all that apply.,"Average(I,J)",Class, Class,Prediction
+Sai Keshav S,21,Male,B +ve,sirigirisaikeshav@gmail.com,7204592146,MYSURU,4,5,4,4,2,2,5,4,3,4,2,1,4,3,"Whatsapp, Mail, Phone Call",4.5,YES,1,
+T RAVICHANDRAPRASAD,31,Male,B +ve,t.ravichandraprasad@gmail.com,9885511420,Hyderabad,4,5,5,1,1,3,5,3,5,5,3,3,5,5,"Whatsapp, Phone Call",4.5,YES,1,
+Chakradhar Thota,33,Male,O +ve,thota.chakradhar@gmail.com,9886131831,Panathur,5,3,3,5,1,1,5,3,5,5,5,1,5,5,Whatsapp,4,YES,1,
+Apoorva Vaidya,21,Female,O +ve,apoorva1996.av@gmail.com,7795775726,Mysuru,1,4,5,2,1,1,5,3,2,2,2,2,5,4,Whatsapp,2.5,NO,0,
+Sravanthi,31,Female,A +ve,sravanthi459@gmail.com,8197488333,Bangalore,1,5,3,1,3,5,5,4,2,1,4,1,5,5,"Whatsapp, Mail, Phone Call, Mouth publicity",3,NO,0,
+Praveen Shet,21,Male,O +ve,prshet03@gmail.com,9481670103,Mysore,4,5,4,4,1,5,5,3,2,3,2,1,4,5,"Whatsapp, Mail, Phone Call",4.5,YES,1,
+Bhargavi Vaidya,20,Female,A +ve,bhargavivaidya1704@gmail.com,8050651703,Mysore,4,5,1,3,2,5,5,1,3,2,3,1,5,5,"Whatsapp, Phone Call",4.5,YES,1,
+Veeresh Koti,21,Male,B +ve,veerkoti@gmail.com,9632426093,Mysore,3,5,2,3,2,5,5,3,3,4,1,3,4,5,"Whatsapp, Mail, Phone Call",4,YES,1,
+Deepa RC,21,Female,A +ve,deepachinagundi@gmail.com,9538794251,Mysore,4,5,4,3,1,5,5,3,3,4,3,2,2,4,"Whatsapp, Phone Call",4.5,YES,1,
+Sindhuri Kalyanapu ,21,Female,O +ve,k.sindhuri@yahoo.in,9742870343,Mysore ,3,5,3,5,2,3,5,4,4,3,1,1,5,4,"Whatsapp, Mail, Phone Call",4,YES,1,
+Prashanth Potluri,28,Male,O +ve,vnktprshnth@gmail.com,974270311,Gangavathi ,3,5,4,2,1,5,5,4,4,4,4,2,4,5,Whatsapp,4,YES,1,
+Thejus P,22,Male,O +ve,thejusp.1996@gmail.com,8884361164,Mysuru,3,5,2,2,3,4,5,4,3,4,1,4,5,4,"Whatsapp, Phone Call",4,YES,1,
+Vikith,18,Male,O -ve,vikithrockzz@gmail.com,9742335774,Banglore,3,5,3,5,1,1,5,4,3,3,1,1,5,5,Whatsapp,4,YES,1,
+SAGAR B,28,Male,O -ve,boppana.sagar@gmail.com,9916481772,Bangalore,4,5,3,3,1,2,4,3,3,3,3,2,5,4,"Whatsapp, Phone Call",4.5,YES,1,
+Apoorva subash,20,Female,AB +ve,apoorvasubash@gmail.com,9739151729,Mysore,3,5,5,5,4,5,5,3,4,3,5,1,5,5,"Whatsapp, Mail, Phone Call",4,YES,1,
+Shubhashree,20,Female,A +ve,shubhashreehebbar@gmail.com,9449905211,Mysore,3,5,4,3,3,4,4,4,3,3,2,2,4,4,Mail,4,YES,1,
+Akshaya hegde,29,Male,O +ve,axay1988@gmail.com,9620538080,Bangalore,5,5,5,5,1,5,5,4,3,4,5,1,5,5,"Whatsapp, Phone Call",5,YES,1,
+Anushree,22,Female,A +ve,anushreebhat1996@gmail.com,9481819625,Mysuru,3,3,4,4,3,4,4,5,3,3,2,1,5,3,"Whatsapp, Phone Call",3,NO,0,
+Sai charan,22,Male,B +ve,gurusaicharan22@gmail.com,7981737249,Banglore,3,5,5,2,2,4,5,3,3,2,2,1,5,5,"Mail, Phone Call",4,YES,1,
+S VENKATESH,26,Male,O -ve,seedavenkatesh@gmail.com,8121772590,Kurnool,5,5,5,5,3,3,4,3,4,2,5,3,5,4,"Whatsapp, Mail",5,YES,1,
+A.Surya Teja,21,Male,A +ve,suryatejaadluri@gmail.com,8019690630,Hyderabad,4,5,1,1,3,5,5,4,5,5,1,1,5,5,"Whatsapp, Mail, Phone Call",4.5,YES,1,
+Satwik Mishra,21,Male,B +ve,satwiksmishra@gmail.com,9482073588,Mysuru,2,5,3,1,2,3,5,2,3,3,2,3,4,4,"Whatsapp, Mail",3.5,YES,1,
+Lohith N S,21,Male,O +ve,lohith.duos@gmail.com,9611554228,Mysore,3,5,4,2,1,3,5,4,3,3,2,3,5,4,Whatsapp,4,YES,1,
+vishnu pratap,21,Male,A +ve,vishnupratap099@gmail.com,8712377221,kurnool,5,5,1,1,3,4,5,4,5,5,1,1,5,5,"Whatsapp, Phone Call",5,YES,1,
+Eswar,20,Male,B +ve,tpves207@gmail.com,7981652086,Nandyal,1,1,3,1,2,2,2,1,1,1,1,1,1,5,Phone Call,1,NO,0,
+Pramukh,21,Male,O +ve,iampramukhbharadwaj@gmail.com,9448603071,Mysore,1,3,4,1,1,3,5,3,3,4,1,1,5,5,"Whatsapp, Mail, Phone Call",2,NO,0,
+Suhas H C,21,Male,A +ve,suhas9727@gmail.com,9036664132,Doddaballapud,4,4,2,4,1,5,5,2,3,3,2,3,5,4,"Whatsapp, Mail, Phone Call",4,YES,1,
+Chikkandru seshasai,21,Male,O +ve,damarukam42@gmail.com,8466815583,"Kollam,kerala",4,4,4,4,2,4,5,5,2,1,1,1,5,5,"Whatsapp, Phone Call, Facebook, Instagram",4,YES,1,
+Kiran yadiki,21,Male,B +ve,yadikikiru5u@gmail.com,7032684632,Mysore,5,5,3,3,4,3,5,4,3,3,3,1,5,3,Whatsapp,5,YES,1,
+Sanganna hallad,21,Male,B +ve,sanguhallad371@gmail.com,8861824493,Mysuru,5,5,4,5,4,3,5,4,4,4,4,3,4,4,"Whatsapp, Mail, Phone Call",5,YES,1,
+Kane Nongmaithem,21,Male,B +ve,nongmaithemkane@gmail.com,8553853390,Mysore,4,5,2,2,2,3,2,1,2,2,2,1,2,4,Whatsapp,4.5,YES,1,
+Siddhaling,22,Male,O +ve,siddalinggunale@gmail.com,8197673012,Tumkur,2,2,2,3,3,3,4,3,3,3,3,3,3,3,Whatsapp,2,NO,0,
+Akhila. S,21,Female,AB +ve,akhilasunderram@gmail.com,9483900075,Mysore ,3,4,3,4,2,4,5,4,3,2,1,3,4,4,Phone Call,3.5,YES,1,
+Vidya,21,Female,B +ve,vidya061296@gmail.com,9738984425,Mysuru,3,3,4,3,2,4,5,2,4,3,1,3,5,4,Mail,3,NO,0,
+Gowtham,21,Male,O -ve,gowtham.b.yadav@gmail.com,7760073516,Mysuru,1,1,1,1,3,2,4,5,5,5,1,5,5,5,Mail,1,NO,0,
+Ravi Shankara K,21,Male,O +ve,ravishankara18@gmail.com,9538794480,Kasaragod,3,4,3,2,4,4,4,3,2,3,2,1,5,3,"Whatsapp, Phone Call",3.5,YES,1,
+Sirisha J,25,Female,O +ve,sirisha.j09@gmail.com,9740766643,Bellary,2,4,3,3,3,3,4,4,3,3,4,3,3,5,"Whatsapp, Phone Call",3,NO,0,
+Akshay,25,Female,B +ve,akshay@gmail.com,7204592146,Mysuru,5,3,5,3,1,5,5,3,5,3,2,4,5,3,Whatsapp,4,YES,1,
+Rohit ,23,Male,O +ve,rohitiyer0311@gmail.com,9591080824,Mysore,1,3,3,4,1,4,4,3,3,3,3,1,3,4,"Whatsapp, Mail, Phone Call",2,NO,0,
+Shwetha,21,Female,O +ve,shwethabelli@yahoo.com,8867416578,Mysore ,3,4,3,3,2,3,4,2,3,3,3,2,5,4,"Whatsapp, Phone Call",3.5,YES,1,
+Sahana.B.G.,18,Female,O +ve,sahanabg1999@gmail.com,9880838347,Mysore,3,5,2,3,4,3,4,3,4,4,2,4,4,5,"Whatsapp, Phone Call",4,YES,1,
+Rishika,18,Female,O +ve,singhrishika.12@gmail.com,9110365711,Mysore,4,5,5,3,2,2,5,3,5,3,1,1,5,5,"Whatsapp, Phone Call",4.5,YES,1,
+Abhishek Venkatesh,21,Male,B +ve,abhishekvenkatesh2196@gmail.com,9741804040,Mysuru,3,5,3,3,1,2,5,4,4,3,3,3,5,5,Mail,4,YES,1,
+ANIRUDH D PAI,19,Male,O +ve,paianni55@gmail.com,8762501215,MYSURU,5,5,3,1,2,4,5,2,3,4,2,1,5,5,"Whatsapp, Phone Call",5,YES,1,
+Rohit s s,18,Male,A +ve,shakhapurer45@gmail.com,8217649435,Mysore,4,4,3,3,3,3,3,3,3,3,3,3,1,3,Whatsapp,4,YES,1,
+Harsha B M,21,Male,A -ve,bmharsha18@gmail.com,7411969935,Bellary,1,1,3,3,1,2,4,4,4,3,3,4,3,2,Phone Call,1,NO,0,
+Ravi teja,24,Male,A +ve,ravitejaboppana@gmail.com,8050149342,Gangavathi,5,5,4,1,1,4,4,5,5,5,5,1,5,5,Whatsapp,5,YES,1,
+Kala,21,Female,O +ve,kalachowdary333@gmail.com,8310404144,Bangalore,1,5,3,5,1,5,5,5,1,3,5,3,5,3,"Whatsapp, Mail",3,NO,0,
+Swapna A,21,Female,O +ve,swapna.a.16.9@gmail.com,9972353887,Mysuru,3,3,4,3,2,5,5,3,3,4,3,3,4,5,"Whatsapp, Mail",3,NO,0,
+Sachin,21,Male,B +ve,sachinbn@gmail.com,9901122854,mysore,3,5,3,4,1,5,5,4,3,4,1,2,5,4,Phone Call,4,YES,1,
+Kanakamba G,21,Female,O +ve,kanakambaguru@gmail.com,7829371101,Mysore,5,5,4,5,1,2,5,1,3,3,1,1,5,5,Whatsapp,5,YES,1,
+Akshatha D,21,Female,B +ve,akshugowda557@gmail.com,8123348392,Mysore,3,5,5,5,1,5,5,1,1,3,3,1,4,5,Whatsapp,4,YES,1,
+Samarth C J,18,Male,B +ve,samarthsamu123@gmail.com,8884554451,Mysuru,5,5,4,2,2,4,5,3,3,4,1,4,5,3,"Whatsapp, Mail",5,YES,1,
+Praveen mugadur,21,Male,O +ve,praveenmugadur5@gmail.com,9901174431,Mysore,4,4,4,4,4,4,4,4,3,3,2,3,3,3,Whatsapp,4,YES,1,
+Supreetha M,21,Female,A +ve,supreetham27@gmail.com,9901653399,Mysore,3,5,4,2,3,3,5,1,2,3,3,1,5,5,"Whatsapp, Mail, Phone Call",4,YES,1,
+Ambashree,21,Female,AB +ve,ambashreed14@gmail.com,8277773083,Mysore,1,1,4,3,3,3,4,3,3,3,2,2,4,4,"Whatsapp, Mail, Phone Call",1,NO,0,
+Madan G S,18,Male,O +ve,madangs732@gmail.com,8747072596,Mysore,3,4,4,4,3,4,5,3,2,4,3,2,4,4,Whatsapp,3.5,YES,1,
+Sunny Kumar,21,Male,AB +ve,sunnykumarkarn@gmail.com,8553400986,Mysore,2,2,4,3,4,4,4,4,4,4,3,2,4,4,"Whatsapp, Phone Call",2,NO,0,
+Bharath Mylar,21,Male,O +ve,bharathmylar@gmail.com,7760065890,Mysore,3,3,1,3,3,4,5,3,3,3,3,3,3,3,Whatsapp,3,NO,0,
+Krithi,21,Female,B +ve,krithisu@yahoo.com,9538995225,Mysore ,3,3,3,2,1,4,4,5,5,4,2,3,3,3,"Whatsapp, Mail",3,NO,0,
+Sanghamesh S Vastrad,21,Male,A +ve,sanghamesh.vastrad@gmail.com,9448293577,Mysuru,2,4,4,1,2,3,5,3,4,4,1,1,4,5,Mail,3,NO,0,
+Deepak Bharadwaj,22,Male,B +ve,deepakbharadwaj14@gmail.com,9483976861,Mysore,1,4,1,1,1,3,5,5,4,4,5,1,2,2,"Whatsapp, Phone Call",2.5,NO,0,
+Rajeshwari.H .S.,20,Female,A +ve,rajeshwarihs4@gmail.com,9482457018,Mysore,1,5,3,3,2,3,5,1,3,3,3,4,4,3,Whatsapp,3,NO,0,
+Roopa,20,Female,O +ve,roopashivannegowda04@gmail.com,7026413725,Hassan ,3,3,1,2,4,5,5,1,2,4,1,5,5,5,Phone Call,3,NO,0,
+Kishan V,21,Male,O +ve,kishan121296@gmail.com,8884155968,Mysuru,1,5,4,5,1,5,5,3,3,3,3,1,5,3,"Whatsapp, Phone Call",3,NO,0,
+CHANDRASHEKAR S,22,Male,B +ve,chandrashekars.yadav@gmail.com,9164185610,Mysuru,4,4,1,3,2,1,3,5,5,3,4,2,5,4,"Whatsapp, Phone Call",4,YES,1,
+Jeevanth,18,Male,B +ve,jeevanthdayalu@gmail.com,9110496156,Mysore,5,5,5,5,1,5,5,2,5,5,1,3,5,5,"Whatsapp, Mail",5,YES,1,
+Yeshwanth KT,21,Male,B +ve,yeshwanthkt13@gmail.com,8892837408,Mysore,1,5,4,3,2,5,5,3,4,3,1,3,3,4,Whatsapp,3,NO,0,
+Meghana K Urs,21,Female,A +ve,meghanaursk@gmail.com,9535280543,Mysore,3,4,5,3,2,3,5,3,3,2,1,2,5,5,"Whatsapp, Mail, Phone Call",3.5,YES,1,
+SRIRAM M,21,Male,A +ve,sriram0296@gmail.com,8553640213,Mysore,3,5,3,5,1,3,5,2,4,4,2,1,5,5,Whatsapp,4,YES,1,
+NISHANTH,22,Male,O +ve,nsangameshwar@gmail.com,8095433089,"Mysore
+",2,5,5,1,2,5,3,5,2,3,1,1,4,3,"Whatsapp, Phone Call",3.5,YES,1,
+Eeshaan Achar,18,Male,O +ve,eeshaan77@gmail.com,9482082033,Mysore,3,5,5,4,1,2,5,2,3,4,3,1,5,3,Whatsapp,4,YES,1,
+NANDEESH H D,28,Male,AB +ve,hdnandeesh@gmail.com,9538349705,Mysore,5,5,5,4,2,2,5,2,3,3,1,1,5,5,"Whatsapp, Mail, Phone Call",5,YES,1,
+Sanjay sanju,20,Male,B +ve,sanjaysanju007@gmail.com,8123189477,Huliyar,1,5,5,5,3,5,5,3,5,5,1,1,5,4,Whatsapp,3,NO,0,
+Scooty watt,27,Male,B +ve,scootywatt@drive.com,7204592146,Mysore,1,5,5,4,3,3,3,3,3,3,3,3,3,3,"Whatsapp, Mail, Phone Call",3,NO,0,
+Sagar S Kumbar,21,Male,O +ve,sagar140596@gmail.com,9742208803,Bengaluru,1,5,1,5,5,5,5,5,5,1,5,5,1,5,Mail,3,NO,0,
+Niveditha,32,Female,O +ve,nivi432@gmail.com,9704657124,Hyderabad,1,3,1,5,3,5,3,3,3,3,3,3,3,3,Whatsapp,2,NO,0,
+Aravinda S.V.,18,Male,O +ve,aravisv@gmail.com,9901960855,Mysore,1,5,3,2,4,5,5,2,3,3,1,4,5,4,Whatsapp,3,NO,0,
+Sachin,22,Male,O +ve,boldesachin96@gmail.com,8310609744,Kalburgi,1,3,2,1,4,3,4,3,3,3,3,3,4,3,Phone Call,2,NO,0,
+Anjana R,21,Female,O +ve,anjanaramegoda@gmail.com,9741916096,Mysore ,1,3,3,1,2,2,3,2,3,3,3,1,4,4,Phone Call,2,NO,0,
+pooja,21,Female,O +ve,poojabhat012@gmail.com,9448169819,Mysuru,1,3,4,4,2,4,5,4,4,3,1,3,4,4,"Whatsapp, Mail",2,NO,0,
+Srujan Addanki,26,Male,B +ve,srujankumar553@gmail.com,9959984845,Hyderabad,1,5,5,3,3,5,5,5,5,5,1,1,5,2,Phone Call,3,NO,0,
+ABHINAV KS,21,Male,O +ve,abhinav.k.s.586@gmail.com,9741274096,Mysore,1,4,4,3,4,3,3,1,3,3,2,4,4,4,Phone Call,2.5,NO,0,
+Gagana H,22,Female,B +ve,gaganah9@gmail.com,8971500732,Mysore ,2,5,3,3,2,4,5,3,4,3,3,3,4,3,"Whatsapp, Mail, Phone Call",3.5,YES,1,
+Mohammed Nawaz,21,Male,O +ve,mdnawaz469@gmail.com,8792258436,Mysuru,3,4,4,4,2,3,5,3,3,3,3,3,3,4,"Whatsapp, Mail, Phone Call",3.5,YES,1,
+Pavan R,24,Male,A +ve,pavannaik025@gmail.com,9686185402,Mysuru ,1,3,3,4,2,3,4,4,3,4,3,4,4,4,"Whatsapp, Mail",2,NO,0,
+Shashank Gowda,22,Male,A +ve,shashank.3210@yahoo.com,9008406068,Bangalore,4,4,4,5,2,4,5,2,4,5,1,1,5,5,Phone Call,4,YES,1,
+Prince raj,21,Male,A +ve,princeready2rule@gmail.com,8904838845,Mysuru,1,5,3,1,3,4,4,4,3,2,2,3,3,4,"Whatsapp, Mail, Phone Call",3,NO,0,
+Yashwanth M Jain,20,Male,B +ve,yashwanth1814@gmail.com,8694966635,Mysore,2,3,4,4,4,3,4,3,4,3,3,4,3,3,Mail,2.5,NO,0,
+Namratha m j,19,Female,O +ve,namrathamj@gmail.com,9632620643,Mysuru,2,5,3,3,3,5,5,4,4,4,1,2,4,3,Whatsapp,3.5,YES,1,
+Vidyavikas,22,Male,O +ve,vidyavikas177@gmail.com,8639768527,Kurnool,5,5,1,5,5,4,5,5,1,1,1,1,5,5,"Whatsapp, Mail, Phone Call",5,YES,1,
+Vidyavikas,22,Male,O +ve,vidyavikas177@gmail.com,8639768527,Kurnool,5,5,1,5,5,4,5,5,1,1,1,1,5,5,"Whatsapp, Mail, Phone Call",5,YES,1,
+Nagesh,37,Male,O +ve,nageshk4u@yahoo.com,9538923400,Pune,3,4,4,3,2,5,5,3,2,3,1,1,5,4,Please don't call me,3.5,YES,1,
+Nandeesh,32,Male,O +ve,nandeeshn282@gmail.com,9742333214,Bangalore,1,2,5,3,1,1,1,1,1,1,1,1,1,5,Whatsapp,1.5,NO,0,
+Adesh,33,Male,O +ve,adesh_shetty@yahoo.co.in,9886193133,Bangalore,3,3,3,4,2,3,4,3,3,3,3,2,4,3,Newspapers ,3,NO,0,
+Shankar Rao Pendyala,32,Male,O +ve,shapendy84@gmail.com,9849340240,Hyderabad,5,4,4,5,2,2,5,4,2,3,2,1,5,4,Whatsapp,4.5,YES,1,
+Manuprasad P M,29,Male,B -ve,manuppm@gmail.com,9611246002,Bangalore,5,5,5,1,2,5,5,3,5,5,1,1,5,5,Whatsapp,5,YES,1,
+Vani,29,Female,O +ve,divyathaece@gmail.com,9493375346,Kurnool,3,4,4,3,3,4,3,4,4,4,3,2,5,5,Phone Call,3.5,YES,1,
+Nitika,22,Female,B +ve,nitikaraj11@gmail.com,7204592146,Bengaluru,1,5,3,2,4,5,5,5,3,4,1,2,5,5,Mail,3,NO,0,
+Kishore Kumar M ,34,Male,A +ve,m.kishore.k@gmail.com,9886395954,Bangalore ,5,5,5,2,1,5,5,4,4,4,1,1,5,5,"Whatsapp, Mail",5,YES,1,
+B Vittal Prasad,38,Male,AB +ve,vittal.p.bandi@gmail.com,891 964 5644,Hyderabad,3,5,5,1,2,3,5,3,3,3,1,1,5,4,Phone Call,4,YES,1,
+TAVVA MARUTHI,32,Male,A +ve,maruti.tavva@gmail.com,8106622323,KURNOOL,5,5,5,5,5,1,5,1,3,2,3,1,5,5,"Whatsapp, Mail, Phone Call",5,YES,1,
+Sravani,1,Female,A +ve,sr@co.in,7204592146,Mysuru,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Whatsapp,1,NO,0,
+Pallavi,26,Female,A +ve,palv.503@gmail.com,9739595274,Bangalore,3,5,4,3,3,3,5,2,3,3,1,1,5,5,"Whatsapp, Phone Call",4,YES,1,
+Abhishek sajjan,22,Male,B +ve,aasajjan44@gmail.com,7204132625,Mysore,3,5,5,1,2,5,5,4,3,4,1,1,5,5,"Whatsapp, Mail, Phone Call",4,YES,1,
+Rajshekar Swadi,45,Male,AB +ve,rswadi@yahoo.com,9886708914,Bangalore,3,4,5,2,1,5,4,2,3,5,1,4,5,4,NA,3.5,YES,1,
+Varun A Nandre,21,Male,B +ve,varunnandre187@gmail.com,9538307329,Belagavi,2,4,2,3,2,3,3,2,4,4,2,2,4,4,"Whatsapp, Mail",3,NO,0,
+Priya,21,Female,B +ve,priyanka96@gmail.com,9481445763,Hubli,3,3,3,4,4,4,4,4,4,4,4,4,4,4,Whatsapp,3,NO,0,
+Soham Patel,21,Female,O +ve,sohamkpl18@gmail.com,8197455049,Mysuru,1,1,1,1,2,5,3,2,3,3,3,3,3,5,"Whatsapp, Mail, Phone Call",1,NO,0,
+Nishaa Abilash,29,Female,O +ve,nishaapec@gmail.com,8088680988,Bangalore,5,5,5,1,3,4,5,3,3,3,1,1,5,3,"Whatsapp, Mail, Phone Call",5,YES,1,
+Nandini Matam,23,Female,O +ve,nandinimatam69@gmail.com,9849232988,Hyderabad ,2,3,3,3,3,3,3,3,3,3,3,3,4,4,Mail,2.5,NO,0,
+Nandini Matam,23,Female,O +ve,nandinimatam69@gmail.com,9849232988,Hyderabad ,2,3,3,3,3,3,3,3,3,3,3,3,4,4,Mail,2.5,NO,0,
+Mallikarjun,25,Male,B -ve,malli@gmail.com,8789086667,Kodagu,5,1,4,3,2,4,3,5,1,2,3,1,2,1,"Whatsapp, Mail, Phone Call",3,NO,0,
+Archana sajjan,21,Female,A +ve,archanasajjan1997@gmail.com,9535962423,Belgavi,5,5,5,4,2,4,5,4,3,3,1,1,5,5,"Whatsapp, Mail, Phone Call, Normal message",5,YES,1,
+Kumar,30,Male,B +ve,kumarblr10861@gmail.com,8792798746,Bangalore,1,5,3,2,2,2,3,5,5,4,1,2,3,4,Whatsapp,3,NO,0,
+Manjunath maiya g,21,Male,O +ve,achyutha.giliyar@gmail.com,9916038193,Bengaluru,3,5,5,5,1,5,5,3,4,3,1,1,5,4,Phone Call,4,YES,1,
+Madhu dasar,22,Female,AB +ve,madhudasar@gmail.com,9986608524,Belagavi,2,1,5,5,4,4,5,5,4,5,5,5,5,5,Whatsapp,1.5,NO,0,
+Adithya,22,Male,O -ve,adithyatsadi@gmail.com,9482164456,Bengaluru,5,5,4,5,2,3,5,5,5,3,1,1,5,5,"Whatsapp, Phone Call, Tv, newspaper",5,YES,1,
+Anjani,33,Female,A +ve,anjani_telkar@yahoo.com,9916555707,Bangalore,5,5,4,4,2,4,5,2,3,3,3,2,4,3,Mail,5,YES,1,
+Ravishankar,21,Male,O +ve,ravishankar.123@gmail.com,7676043145,Gadag,3,5,5,5,1,2,5,3,1,4,4,2,3,4,"Whatsapp, Phone Call",4,YES,1,
+Vinaykumar,27,Male,A +ve,vssajjanar@gmail.com,8884392229,Bengaluru,4,5,5,5,2,5,5,3,5,4,5,1,4,4,Mail,4.5,YES,1,
+Asmita ,21,Female,A +ve,asmitaskulkarni96@gmail.com,7795848998,Mysore,2,5,3,2,4,3,5,4,4,2,1,1,5,5,Phone Call,3.5,YES,1,
+Manjunatha Bandi,26,Male,O +ve,manjubandi7@gmail.com,8880525203,Mysore,1,1,4,1,1,1,1,1,1,1,1,1,1,1,"Whatsapp, Phone Call",1,NO,0,
+Kishore ,34,Male,B -ve,ayyapusettykishore@gmail.com,9849866714,Kurnool,5,5,5,2,4,2,3,3,2,3,3,3,4,3,Whatsapp,5,YES,1,
+Durga,24,Female,B +ve,durgaselva2893@gmail.com,9677321893,Bangalore,1,5,5,2,3,4,5,4,3,4,2,2,5,5,Whatsapp,3,NO,0,
+Chalapathi Sanka,23,Male,O +ve,raja.chalapathi.143@gmail.com,8179813504,Bapatla,5,5,5,1,2,2,5,2,3,4,1,1,5,5,"Whatsapp, Mail, Phone Call",5,YES,1,
+Neeraja,27,Female,A +ve,nsrungavarapu1591@gmail.com,9705333378,hyderabad,5,5,1,3,1,5,5,1,3,4,1,1,5,5,"Whatsapp, Mail, Phone Call, facebook",5,YES,1,
+Anusree Kailash,33,Female,O +ve,anusree.kailash@gmail.com,821034842711,Suwon,3,4,4,3,2,4,4,3,4,3,1,1,4,4,Whatsapp,3.5,YES,1,
+Mohammed Ateeq S,22,Male,A +ve,mohammedateeq053@gmail.com,8553777050,Mysore,3,4,4,2,2,5,5,4,4,4,1,3,5,4,Whatsapp,3.5,YES,1,
+Darshan HK,22,Male,O +ve,bharadwajdarshan@gmail.com,7204150395,Mysore,5,5,5,5,1,2,5,4,4,5,5,1,5,5,Whatsapp,5,YES,1,
+Abhishek sajjan,22,Male,B +ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,5,5,5,1,3,5,5,5,4,3,2,2,5,5,"Whatsapp, Mail, Phone Call",5,YES,1,
+Darshan M S ,23,Male,O +ve,darshanmsubramanya@gmail.com,9164628551,Mysore ,3,4,4,3,3,3,4,3,3,3,3,2,3,3,Whatsapp,3.5,YES,1,
+Rohit ,23,Male,O +ve,rohitiyer0311@gmail.com,9591080824,Mysore,1,3,3,4,1,4,4,3,3,3,3,1,3,4,"Whatsapp, Mail, Phone Call",2,NO,0,
+Aditya Raikar,22,Male,A -ve,sirigirisaikeshav@gmail.com,7204592146,Belagavi,5,3,5,1,3,2,3,2,4,2,4,2,4,2,"Whatsapp, Mail",4,YES,1,
+Vishal Shahpurmath,26,Male,O +ve,sirigirisaikeshav@gmail.com,7204592146,Bidar,5,2,5,3,5,1,2,4,5,4,2,4,4,4,"Whatsapp, Mail, Phone Call",3.5,YES,1,
+Advaith pawar,25,Male,O +ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,4,1,4,1,4,1,4,3,4,1,4,3,4,3,Whatsapp,2.5,NO,0,
+Sumit Nagnath,43,Male,B -ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,5,3,4,1,4,2,4,1,4,2,5,2,3,4,Whatsapp,4,YES,1,
+Ashish Deshpande,62,Male,A +ve,sirigirisaikeshav@gmail.com,7204592146,Gulbarga,4,5,2,4,2,4,3,2,4,2,4,4,5,4,"Whatsapp, Mail",4.5,YES,1,
+Amit Kasotiya,21,Male,AB +ve,sirigirisaikeshav@gmail.com,7204592146,Davanagere,4,2,2,4,4,2,1,5,4,1,3,4,1,5,"Whatsapp, Phone Call",3,NO,0,
+Pranav Pai,67,Male,B -ve,sirigirisaikeshav@gmail.com,7204592146,Dharwad,4,5,2,5,2,3,5,2,4,4,2,5,2,4,"Whatsapp, Phone Call",4.5,YES,1,
+Vivek Govekar,54,Male,O -ve,sirigirisaikeshav@gmail.com,7204592146,Bagalkote,3,2,4,2,4,2,4,2,4,1,3,4,2,5,Whatsapp,2.5,NO,0,
+Shubham Kadam,65,Male,B -ve,sirigirisaikeshav@gmail.com,7204592146,Bijapur,5,1,4,4,5,1,4,5,4,4,4,3,1,4,Mail,3,NO,0,
+Karan Huded,51,Male,A -ve,sirigirisaikeshav@gmail.com,7204592146,Amritsar,2,4,1,5,1,4,4,2,4,2,4,4,3,3,Whatsapp,3,NO,0,
+Pranav Kulkarni,43,Male,A -ve,sirigirisaikeshav@gmail.com,7204592146,Srinagar,3,4,2,4,4,2,4,4,2,4,4,2,4,4,"Whatsapp, Phone Call",3.5,YES,1,
+Shivkumar Umadi,35,Male,AB +ve,sirigirisaikeshav@gmail.com,7204592146,Haveri,3,2,4,2,4,2,4,2,4,2,4,3,5,5,Whatsapp,2.5,NO,0,
+Azhar Bisti,38,Male,O -ve,sirigirisaikeshav@gmail.com,7204592146,Raichur,3,2,4,3,4,2,4,2,4,5,4,3,4,5,"Whatsapp, Phone Call",2.5,NO,0,
+Xavier Francis,44,Male,B -ve,sirigirisaikeshav@gmail.com,7204592146,Panji,4,3,5,2,4,3,4,2,4,3,4,4,2,5,"Whatsapp, Phone Call",3.5,YES,1,
+Shantanu Raijade,37,Male,AB +ve,sirigirisaikeshav@gmail.com,7204592146,Ballary,3,5,2,4,4,2,4,3,4,2,4,2,3,4,"Whatsapp, Mail",4,YES,1,
+Akshay Sawant,75,Male,B -ve,sirigirisaikeshav@gmail.com,7204592146,Kodagu,3,4,2,5,3,4,3,5,3,2,4,2,4,2,Whatsapp,3.5,YES,1,
+Nakhil Inamdar,64,Male,A +ve,sirigirisaikeshav@gmail.com,7204592146,Patna,3,5,5,3,4,2,4,1,5,4,4,3,4,2,Whatsapp,4,YES,1,
+Arun Munoli,59,Male,O -ve,sirigirisaikeshav@gmail.com,7204592146,Chikmaglur,4,1,4,4,2,4,3,4,5,5,2,4,4,4,Whatsapp,2.5,NO,0,
+Vishal Kulgod,75,Male,B +ve,sirigirisaikeshav@gmail.com,7204592146,Kolar,2,5,4,5,5,4,2,4,4,4,3,2,5,4,Mail,3.5,YES,1,
+Junaid Gokak,33,Male,A +ve,sirigirisaikeshav@gmail.com,7204592146,Mangalore,4,2,4,2,4,2,4,4,2,3,4,2,4,3,Phone Call,3,NO,0,
+Nihal Bepari,28,Male,B -ve,sirigirisaikeshav@gmail.com,7204592146,Hassan,5,4,2,4,2,4,3,5,1,4,2,4,4,2,Whatsapp,4.5,YES,1,
+Nelson Lima,47,Male,O -ve,sirigirisaikeshav@gmail.com,7204592146,Kolkata,2,4,2,4,3,4,2,4,2,4,3,4,3,5,"Whatsapp, Phone Call",3,NO,0,
+Bhagyesh Tonpekar,53,Male,B +ve,sirigirisaikeshav@gmail.com,7204592146,Gurgaon,2,4,2,4,3,4,2,4,2,4,3,4,4,3,"Whatsapp, Phone Call",3,NO,0,
+Sandhya,30,Female,B -ve,sirigirisaikeshav@gmail.com,7204592146,Kurnool,1,2,2,4,5,5,4,2,3,3,3,4,3,4,Whatsapp,1.5,NO,0,
+Shivam Mandolkar,72,Male,A -ve,sirigirisaikeshav@gmail.com,7204592146,Vijayawaada,4,2,4,2,4,2,4,3,5,3,5,2,3,5,"Whatsapp, Phone Call",3,NO,0,
+Aishwarya Hanchinal,77,Female,A -ve,sirigirisaikeshav@gmail.com,7204592146,Belagavi,1,4,1,1,5,1,1,2,4,1,5,2,2,3,News,2.5,NO,0,
+Lavanya Bidari,88,Female,B -ve,sirigirisaikeshav@gmail.com,7204592146,Darjeeling,4,1,1,4,4,1,4,4,2,5,1,4,3,2,Hike,2.5,NO,0,
+Priyanka Devnoor,76,Female,O -ve,sirigirisaikeshav@gmail.com,7204592146,Bangalore,5,1,1,4,2,5,5,1,5,3,2,4,3,2,Whatsapp,3,NO,0,
+Ramya,35,Female,A -ve,sirigirisaikeshav@gmail.com,7204592146,Hyderabad,2,3,2,1,5,5,2,5,2,5,1,5,2,4,Whatsapp,2.5,NO,0,
+Veena Gumma,45,Female,B -ve,sirigirisaikeshav@gmail.com,7204592146,Delhi,4,1,4,2,5,1,4,4,1,5,1,4,2,4,News,2.5,NO,0,
+Vishwas Hanamsagar,33,Male,B -ve,prshet03@gmail.com,9481670103,Pune,4,3,4,2,2,2,5,1,3,2,4,4,5,5,Mail,3.5,YES,1,
+Ranjitha Simhadri,45,Female,B -ve,sirigirisaikeshav@gmail.com,7204592146,Kolkata,4,1,1,5,5,1,1,5,1,4,1,5,1,1,News,2.5,NO,0,
+Shivani,36,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,2,2,2,2,1,5,1,5,1,5,5,5,1,1,Mail,2,NO,0,
+Saadhana Reddy,45,Female,O -ve,sirigirisaikeshav@gmail.com,7204592146,54,1,1,1,1,5,5,1,5,3,1,5,5,1,4,News,1,NO,0,
+Varsha Hegde,54,Female,A -ve,sirigirisaikeshav@gmail.com,7204592146,Kurnool,1,1,4,1,4,1,5,4,1,1,1,4,4,1,"Whatsapp, Phone Call",1,NO,0,
+Sunil Budha,34,Male,B +ve,sirigirisaikeshav@gmail.com,7204592146,Gulbarga,2,2,2,3,3,3,4,4,4,1,2,3,3,3,"Whatsapp, Mail, Phone Call, WeChat",2,NO,0,
+Kshipra Reddy,35,Female,A -ve,sirigirisaikeshav@gmail.com,7204592146,Guwahati,1,1,1,5,5,5,1,5,5,1,5,5,1,1,Whatsapp,1,NO,0,
+Mamata Burjagi,39,Female,A -ve,prshet03@gmail.com,9481670103,Lucknow,2,1,1,1,5,5,1,4,1,1,1,5,1,2,"Whatsapp, Mail",1.5,NO,0,
+Supriya Bali,21,Female,A -ve,sirigirisaikeshav@gmail.com,7204592146,Bangalore,2,2,3,2,3,3,2,4,2,4,5,2,3,4,Phone Call,2,NO,0,
+Dhanalakshmi,36,Female,A -ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,2,2,2,2,5,5,2,2,3,4,2,5,5,5,Whatsapp,2,NO,0,
+Ranjani Pai,45,Female,A -ve,sirigirisaikeshav@gmail.com,7204592146,Rajkot,1,1,1,5,5,1,1,5,1,5,1,5,1,1,Mail,1,NO,0,
+Richa Patel,30,Female,A -ve,prshet03@gmail.com,9481670103,Surat,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Mail,1,NO,0,
+Anjali,36,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,1,1,1,1,5,5,2,5,1,1,5,5,1,1,Phone Call,1,NO,0,
+Maria Jackson,31,Female,AB -ve,prshet03@gmail.com,9481670103,Dharwad,2,2,4,3,2,2,1,4,5,1,2,3,2,3,"Whatsapp, Mail",2,NO,0,
+Aishwarya Veereshkumar,45,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Ahmedabad,5,1,1,5,5,1,2,5,1,3,1,5,1,1,"Whatsapp, Phone Call",3,NO,0,
+Sushma Jadugar,38,Female,AB -ve,prshet03@gmail.com,9481670103,Hubli,2,2,1,1,2,2,4,4,3,4,2,5,2,1,Mail,2,NO,0,
+Torrie Wilson,34,Female,A -ve,sirigirisaikeshav@gmail.com,7204592146,Lucknow,1,1,1,5,5,1,5,1,4,1,1,5,1,1,"Whatsapp, Mail, Phone Call",1,NO,0,
+Saroja,36,Female,A -ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,1,2,1,2,5,5,1,5,5,5,5,5,1,1,Phone Call,1.5,NO,0,
+Manasa Rao,34,Female,A -ve,sirigirisaikeshav@gmail.com,7204592146,Mangalore,5,1,1,5,5,1,1,5,3,1,1,5,1,1,Mail,3,NO,0,
+Madhu,36,Female,A -ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,1,1,2,1,5,4,1,5,5,4,5,5,1,2,Phone Call,1,NO,0,
+Kiran Kulkarni,36,Female,AB -ve,prshet03@gmail.com,9481670103,Dharwad,2,1,2,1,5,4,5,4,5,4,5,5,5,3,Mail,1.5,NO,0,
+Nishmitha Dsouza,35,Female,B -ve,sirigirisaikeshav@gmail.com,7204592146,Dharwad,1,1,1,5,5,1,1,5,3,5,1,1,1,1,Whatsapp,1,NO,0,
+Swati Bhat,35,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,5,2,1,5,5,5,1,5,3,5,1,5,1,1,"Whatsapp, Phone Call",3.5,YES,1,
+Neha Rajput,33,Female,A -ve,prshet03@gmail.com,9481670103,Hubli,2,2,5,1,1,2,2,5,5,4,5,5,2,2,Whatsapp,2,NO,0,
+Veena Salegar,40,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Gulbarga,2,3,4,3,2,3,4,4,2,4,2,4,2,3,"Whatsapp, Mail, Phone Call",2.5,NO,0,
+Paavni kulkarni,45,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,5,1,1,5,5,5,1,5,5,1,1,5,1,4,Phone Call,3,NO,0,
+Sanidhya,36,Female,A -ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,2,2,2,2,5,2,2,5,2,4,2,2,2,2,Phone Call,2,NO,0,
+Roshni Prakash,35,Female,B +ve,sirigirisaikeshav@gmail.com,7204592146,Gulbarga,1,5,1,5,2,3,4,4,3,2,5,1,3,3,"Whatsapp, Mail, Phone Call",3,NO,0,
+Vishrutha Patel,45,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Rajkot,1,1,1,5,5,3,1,5,5,5,3,5,1,4,Phone Call,1,NO,0,
+Rashmika,36,Female,A -ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,2,2,1,5,5,5,2,5,5,5,1,1,1,1,Phone Call,2,NO,0,
+Rohini Prakash,35,Female,A -ve,prshet03@gmail.com,9481670103,Dharwad,5,2,2,1,1,5,5,4,1,1,5,5,2,2,Phone Call,3.5,YES,1,
+Susmita Bilgi,22,Female,B +ve,sirigirisaikeshav@gmail.com,7204592146,Gulbarga,3,4,2,3,4,2,5,5,5,5,1,2,5,5,"Whatsapp, Mail, Phone Call, YouTube",3.5,YES,1,
+Vaishnavi,36,Female,B -ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,1,1,2,1,5,5,1,5,5,4,5,5,2,2,Phone Call,1,NO,0,
+Sushmitha Singh,35,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,1,1,1,5,5,1,5,5,3,2,1,5,1,4,Phone Call,1,NO,0,
+Supriya Nandi,36,Female,B +ve,sirigirisaikeshav@gmail.com,7204592146,Gulbarga,2,3,4,4,3,2,5,1,5,4,3,2,4,4,"Whatsapp, Mail, Phone Call, YouTube",2.5,NO,0,
+Anamika Singh,45,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Fatehpur,1,1,1,5,2,5,2,5,1,4,1,5,3,5,Mail,1,NO,0,
+Keerthana Kamat,37,Female,A -ve,prshet03@gmail.com,9481670103,Udupi,5,2,2,1,1,4,3,4,5,5,5,5,2,2,Phone Call,3.5,YES,1,
+Adeeba,36,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,1,1,1,2,5,5,1,5,5,5,5,5,1,1,Phone Call,1,NO,0,
+Harshita Nema,46,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Bhopal,1,1,1,1,5,1,5,1,3,2,5,2,3,1,Phone Call,1,NO,0,
+Suneha Singh,34,Female,B -ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,2,2,1,1,5,5,1,1,5,5,5,3,2,2,Phone Call,2,NO,0,
+Sharon Hudson,45,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Chennai,1,1,4,1,4,1,5,1,5,2,4,1,3,1,Phone Call,1,NO,0,
+Kriti Karbanda,21,Female,O -ve,sirigirisaikeshav@gmail.com,7204592146,Gulbarga,2,3,2,3,2,3,4,4,4,4,4,2,3,4,"Whatsapp, Mail, Phone Call, YouTube",2.5,NO,0,
+Amisha Rajput,35,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Bhopal,1,2,1,5,5,1,5,1,5,1,5,1,1,5,"Whatsapp, Mail",1.5,NO,0,
+Deepa Durani,31,Female,AB +ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,1,2,3,4,1,2,3,4,1,2,3,4,2,2,Phone Call,1.5,NO,0,
+Shilpa Shinde,37,Female,AB +ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,4,3,2,1,4,3,2,1,4,3,2,1,2,2,Phone Call,3.5,YES,1,
+Suchismitha Chaki,46,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Bangalore,1,1,1,5,1,1,1,5,1,1,2,2,1,1,Whatsapp,1,NO,0,
+Shwetha S,32,Female,AB +ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,3,2,1,4,3,2,1,4,3,2,1,4,2,2,Phone Call,2.5,NO,0,
+Deepika Patel,45,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Chennai,1,1,1,4,1,1,1,5,1,4,2,2,1,1,Whatsapp,1,NO,0,
+Hemalatha,35,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,1,2,1,2,5,5,2,5,5,4,4,4,2,2,Phone Call,1.5,NO,0,
+Abhilasha Patel,45,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Rajkot,1,1,1,2,1,1,1,1,5,3,2,1,1,3,Whatsapp,1,NO,0,
+Nischita Gowda,39,Female,AB +ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,2,1,4,3,2,1,4,3,2,1,4,3,2,2,Mail,1.5,NO,0,
+Misti Dsouza,45,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,New York,1,2,1,3,1,3,1,3,2,2,1,4,1,1,Phone Call,1.5,NO,0,
+Sweekruthi Rajput,45,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Gurgaon,1,2,3,1,5,1,3,1,3,1,3,2,1,3,Whatsapp,1.5,NO,0,
+Rohan Patil,32,Male,AB +ve,prshet03@gmail.com,9481670103,Hubli,1,4,3,2,1,4,3,2,1,4,3,2,2,2,Mail,2.5,NO,0,
+Ramoji,32,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Hyderabad,2,2,3,1,5,4,2,5,5,5,5,5,2,2,Mail,2,NO,0,
+Anjali Patwadkar,45,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Kurnool,1,1,3,2,5,2,5,2,2,1,2,3,1,3,Mail,1,NO,0,
+Srilakshmi Deshpande,45,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Bhopal,5,1,3,1,3,1,3,1,1,3,1,3,1,5,Mail,3,NO,0,
+Pavan Deshpande,32,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,5,5,5,5,5,5,5,5,5,5,5,5,2,2,Mail,5,YES,1,
+Rajeshwari Patel,45,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,5,1,4,2,1,2,1,1,2,2,3,2,3,2,Whatsapp,3,NO,0,
+Gowri Patel,46,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Gulbarga,5,1,4,2,2,1,3,1,4,1,3,2,3,1,Mail,3,NO,0,
+Ram Murty,34,Male,B -ve,sirigirisaikeshav@gmail.com,7204592146,Mysore,5,5,5,5,5,5,4,5,4,5,2,2,4,4,Mail,5,YES,1,
+Devisha Patel,45,Female,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Belagavi,5,1,3,2,5,2,5,2,4,2,3,2,2,5,Whatsapp,3,NO,0,
+Vidisha Vishwas,32,Female,B +ve,sirigirisaikeshav@gmail.com,7204592146,Mangalore,5,1,3,2,4,2,4,2,3,1,4,1,1,5,Phone Call,3,NO,0,
+Ganesh Gawadkar,45,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,5,1,1,3,1,3,2,4,3,4,2,4,3,1,News,3,NO,0,
+Devappa Surgod,45,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Belagavi,1,1,3,2,4,1,3,2,2,3,1,3,3,2,News,1,NO,0,
+Devrath Jagajampi,45,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Dharwad,1,1,4,2,2,3,2,3,2,3,2,3,3,2,News,1,NO,0,
+Ritik Bharadwaj,34,Male,AB +ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,5,4,3,2,5,4,4,3,3,5,5,5,2,2,Mail,4.5,YES,1,
+Bhavnesh Kulkarni,45,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,1,2,1,2,2,3,2,3,1,3,1,3,4,1,News,1.5,NO,0,
+Darshan Maavinpaddi,54,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Panjim,1,4,2,4,2,4,2,3,2,2,2,4,3,1,News,2.5,NO,0,
+Niranjan Chowdhary,45,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Delhi,3,4,3,2,3,2,3,2,3,2,4,2,4,2,News,3.5,YES,1,
+Gamish Shet,65,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Wayanad,4,1,4,2,4,2,4,2,3,2,3,2,5,2,Whatsapp,2.5,NO,0,
+Shravan Torvi,45,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Imphal,5,2,3,2,4,2,4,2,4,2,4,2,4,2,Mail,3.5,YES,1,
+Rohan Bhatkande,56,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Sikkim,2,4,2,4,2,4,2,4,2,4,2,3,2,4,Whatsapp,3,NO,0,
+Akash Devvapnoor,46,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,67,2,4,2,4,2,3,2,4,2,4,1,3,2,3,Whatsapp,3,NO,0,
+Arshad Devani,35,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,1,2,3,1,5,1,5,1,5,1,4,1,5,1,Phone Call,1.5,NO,0,
+Harshal Avasthi,56,Male,AB -ve,sirigirisaikeshav@gmail.com,7204592146,Dharwad,2,1,3,1,4,2,4,2,3,2,3,1,3,2,Mail,1.5,NO,0,
+Prahlad Joshi,38,Male,AB +ve,sirigirisaikeshav@gmail.com,7204592146,Dharwad,5,4,4,3,3,2,2,1,2,3,4,5,2,2,Mail,4.5,YES,1,
+Amruth Kulkarni,56,Male,AB +ve,sirigirisaikeshav@gmail.com,7204592146,Dharwad,2,4,1,3,1,3,1,3,2,4,1,3,1,4,Whatsapp,3,NO,0,
+Ajneesh Singh,57,Male,AB +ve,sirigirisaikeshav@gmail.com,7204592146,Rajkot,2,1,3,1,4,2,4,1,4,1,3,1,5,1,Whatsapp,1.5,NO,0,
+Bheemappa Jalihaal,56,Male,AB +ve,sirigirisaikeshav@gmail.com,7204592146,Gokak,1,2,4,2,5,1,3,1,3,1,4,1,4,1,Whatsapp,1.5,NO,0,
+Supreeth Kumar,56,Male,AB +ve,sirigirisaikeshav@gmail.com,7204592146,Hubli,5,1,3,1,3,1,3,1,3,1,3,1,3,3,Whatsapp,3,NO,0,
+Srujan Raghav K,21,Male,O +ve,srujangwat@gmail.com,7204045525,Mysore,3,5,4,4,3,3,4,3,2,2,1,3,4,4,"Mail, Phone Call",4,YES,1,
+sreenath,25,Male,B +ve,sreenathkamatham62@gmail.com,9533108020,kurnool,1,1,1,1,1,1,1,1,1,1,1,1,1,1,Whatsapp,1,NO,0,
+,,,,,,,,,,,,,,,,,,,,,,#DONORS,107,,
+,,,,,,,,,,,,,,,,,,,,,,#NON_DONORS,139,,
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
+0.0
+1.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.0
+0.0
