@@ -1,0 +1,80 @@
+<html>
+<head> <meta charset="utf-8">
+
+  <link rel="stylesheet" type="text/css" href="mystyle.css">
+  <title>Blood Bank</title>
+
+</head>
+
+<body>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="img1.jpg" style="height:200px">
+  <div class="text">Caption Text</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="img2.jpg" style="height:200px">
+  <div class="text">Caption Two</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="img3.jpg" style="height:200px">
+  <div class="text">Caption Three</div>
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    for (i = 0; i < slides.length; i++) {
+       slides[i].style.display = "none";  
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}    
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " active";
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script> 
+</div>
+
+<div>
+    <div>
+      <ul>
+        <li><a href='home.html'>Home</a></li>
+        <li><a href='hospitals.html'>Hospitals</a></li>
+        <li><a class="active" href='news.html'>News And Events</a></li>
+        <li><a href='contact.html'>Contact us</a></li>
+      </ul>
+    </div>
+</div>
+
+<div >
+
+</div>
+
+
+</body>
+
+</html>
